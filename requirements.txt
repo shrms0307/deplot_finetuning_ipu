@@ -1,0 +1,13 @@
+torch==1.13.1
+torchsummary
+torchvision
+jupyter
+jedi==0.17.2
+tenacity==8.2.2
+tqdm
+transformers==4.10.2
+datasets
+graphcore-cloud-tools[logger] @ git+https://github.com/graphcore/graphcore-cloud-tools@v0.3
+matplotlib
+
+# Python is 3.8
